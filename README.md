@@ -1,9 +1,9 @@
 <h1 align="center">Hiiieee 👋, I'm Aman Raj</h1>
 <h3 align="center">I do a little bit of Everything😉</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamanraj28&label=Profile%20views&color=0e75b6&style=flat" alt="iamanraj28" /> </p>
-
 <img align="right" alt="Coding" width="400" src="https://iamanraj.com/wp-content/uploads/2022/12/animation_500_lbcz6l9y.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamanraj28&label=Profile%20views&color=0e75b6&style=flat" alt="iamanraj28" /> </p>
 
 - 🔭 I’m currently working on [Android App](https://github.com/iamanraj28/VMSB_UTU)
 
