@@ -23,7 +23,7 @@ Check out my portfolio on <a href="https://www.iamanraj.com"><img src="https://i
 
 - 📫 How to reach me **iamanraj28@gmail.com**
 
-- ⚡ Fun fact <span>**Developer by day avid gamer by night!**</span>
+- ⚡ Fun fact **Developer by day avid gamer by night!**
 
 <h2 align="center">👨🏼‍💻Languages and Tools</h2>
 
