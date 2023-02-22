@@ -9,21 +9,21 @@ Check out my portfolio on <a href="https://www.iamanraj.com"><img src="https://i
 
 - 👩 Pronouns <img src="https://img.shields.io/badge/he-him-blue" alt="iamanraj.com" />
 
-- 🔭 I’m currently working on [Android App](https://github.com/iamanraj28/VMSB_UTU)
+- 🔭 I’m currently working on [Android App](https://github.com/iamanraj28/VMSB_UTU).
 
-- 👯 I’m looking forward to collaborate on different **Open-source Projects**
+- 👯 I’m looking forward to collaborate on different `Open-source Projects.`
 
-- 🌱 I’m currently learning **Everything, ig👀**
+- 🌱 I’m currently learning `Everything, ig👀`
 
-- 💬 Ask me about **ReactJS, Android Studio, Python**
+- 💬 Ask me about `ReactJS, Android Studio, Python, Flutter.`
 
-- 😑 Don't ask me about **my life or my sleeping schedule**
+- 😑 Don't ask me about `my life` or `my sleeping schedule.`
 
-- 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/amanraj28)
+- 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/amanraj28).
 
-- 📫 How to reach me **iamanraj28@gmail.com**
+- 📫 How to reach me **iamanraj28@gmail.com**.
 
-- ⚡ Fun fact **Developer by day avid gamer by night!**
+- ⚡ Fun fact `Developer by day avid gamer by night!`
 
 <h2 align="center">👨🏼‍💻Languages and Tools</h2>
 
