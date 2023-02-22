@@ -11,7 +11,8 @@ Check out my portfolio on <a href="https://www.iamanraj.com"><img src="https://i
 
 - 🔭 I’m currently working on [Android App](https://github.com/iamanraj28/VMSB_UTU).
 
-- 👯 I’m looking forward to collaborate on different `Open-source Projects.`
+- 👯 I’m looking forward to collaborate on different<br>
+&thinsp; &thinsp; &thinsp; `Open-source Projects.`
 
 - 🌱 I’m currently learning `Everything, ig👀`
 
