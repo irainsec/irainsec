@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamanraj28&label=Profile%20views&color=0e75b6&style=flat" alt="iamanraj28" /> </p>
 
-Check out my portfolio on <a href="https://iamanraj28@github.com"><img src="https://img.shields.io/badge/iamanraj.com-portfolio-blue" alt="iamanraj28@github.com" /></a>
+Check out my portfolio on <a href="https://iamanraj28.github.io/"><img src="https://img.shields.io/badge/iamanraj.com-portfolio-blue" alt="iamanraj28@github.com" /></a>
 
 - 👩 Pronouns <img src="https://img.shields.io/badge/he-him-blue" alt="iamanraj.com" />
 
