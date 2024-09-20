@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamanraj28&label=Profile%20views&color=0e75b6&style=flat" alt="iamanraj28" /> </p>
 
-Check out my portfolio on <a href="https://iamanraj28.github.io/"><img src="https://img.shields.io/badge/iamanraj.com-portfolio-blue" alt="iamanraj28@github.com" /></a>
+Check out my portfolio on <a href="https://irainsec.github.io/"><img src="https://img.shields.io/badge/iamanraj.com-portfolio-blue" alt="iamanraj28@github.com" /></a>
 
-- 👩 Pronouns <img src="https://img.shields.io/badge/he-him-blue" alt="iamanraj.com" />
+- 👩 Pronouns <img src="https://img.shields.io/badge/he-him-blue" alt="irainsec.github.com" />
 
 - 🔭 I’m currently leaning towards <img src="https://img.shields.io/badge/cyber-security-blue" />
 
-- ☄️ was previously working on [Android App](https://github.com/iamanraj28/balak_web_app).
+- ☄️ was previously working on [Android App](https://github.com/irainsec/balak_web_app).
 
 - 👯 I’m looking forward to collaborate on different<br>
 &thinsp; &thinsp; &thinsp; `Open-source Projects.`
@@ -56,7 +56,7 @@ Check out my portfolio on <a href="https://iamanraj28.github.io/"><img src="http
 
 [![Aman Raj's GitHub Stats](https://streak-stats.demolab.com?user=iamanraj28&theme=nightowl)](https://git.io/streak-stats)
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamanraj28&show_icons=true&theme=radical" alt="iamanraj28" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irainsec&show_icons=true&theme=radical" alt="iamanraj28" /></p>
 
 </div>
 
